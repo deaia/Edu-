@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Edu Management System",
+    "slug": "edu-management-system",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
+        }
+      ]
+    ]
+  }
+}
